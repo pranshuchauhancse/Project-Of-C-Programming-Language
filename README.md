@@ -1,2 +1,3 @@
 # Project-Of-C-Programming-Language
-Self Made
+By - Pranshu Chauhan
+
